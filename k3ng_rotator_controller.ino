@@ -11,7 +11,7 @@
   YouTube Channel: https://www.youtube.com/channel/UC5o8UM1-heT5kJbwnJRkUYg
 
    Code contributions, testing, ideas, bug fixes, hardware, support, encouragement, and/or bourbon provided by:
-     John W3SA
+     Billy GM6DX
      Gord VO1GPK
      Anthony M0UPU
      Pete VE5VA
